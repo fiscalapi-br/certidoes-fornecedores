@@ -9,7 +9,7 @@ Consulta CND Federal, CNDT e CRF/FGTS de uma lista de CNPJs pela [FiscalAPI](htt
 3. Um CNPJ por linha em `fornecedores.txt` (com ou sem máscara).
 4. `python certidoes.py`
 
-As pegadinhas que o script trata (positiva com efeitos de negativa, validade diferente por certidão, erro ≠ irregular, matriz, emissão demorada) estão explicadas no artigo do dev.to (link em breve).
+As pegadinhas que o script trata (positiva com efeitos de negativa, validade diferente por certidão, erro ≠ irregular, matriz, emissão demorada) estão explicadas [neste artigo no dev.to](https://dev.to/ludwigedward/5-pegadinhas-que-aprendi-automatizando-cnd-federal-cndt-e-fgts-em-python-2kj5).
 
 Documentação da API: https://docs.fiscalapi.com.br/docs/certidoes-federais/consultar-cnd-federal
 
